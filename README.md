@@ -9,10 +9,10 @@ Further information can be found on their [website](https://www.mono-project.com
 ### Visual Studio
 Visual Studio is the goto IDE when it comes to .NET development.
 It is available for unix operating systems as well and guess what, it's the lightweight version.
-Heads up, lightweight is actually a good thing in my opinion since they Windows version is overloaded and clunky.
+Heads up, lightweight is actually a good thing in my opinion since the Windows version is overloaded and clunky.
 Visual Studio for Mac contains some Mono packages already, still I highly recommend to install Mono separately.
 
-... alternatively you can fully drop Visual Studio and extend your understanding by only rely on the command-line and vi (check my [suggestions](https://github.com/zkdev/ultimate-hacky-terminal) for handy command-line tools).
+... alternatively you can fully drop Visual Studio and extend your understanding massively by only rely on the command-line and vi (check my [suggestions](https://github.com/zkdev/ultimate-hacky-terminal) for handy command-line tools).
 
 ### Usage
 I mean, it's a Makefile ...
